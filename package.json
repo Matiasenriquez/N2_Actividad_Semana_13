@@ -1,6 +1,7 @@
 {
   "name": "tarea_semana_13",
   "version": "1.0.0",
+  "type": "module",
   "description": "tarea correspondiente a la semana 13 del Nivel 2: Desarrollo Web Full Stack del Silicon Misiones.",
   "main": "nuevo_proyecto.js",
   "scripts": {
